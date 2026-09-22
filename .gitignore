@@ -1,0 +1,15 @@
+# Environment Variables
+.env
+
+# VS Code Settings
+.vscode/
+
+# Logs
+*.log
+
+# Windows Files
+Thumbs.db
+desktop.ini
+
+# Mac Files
+.DS_Store

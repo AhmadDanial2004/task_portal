@@ -71,6 +71,10 @@ Administrator can:
 - Create projects
 - Edit projects
 - Assign project members
+- Manage Project Status
+- Delete Projects
+
+> Note: Deleting a project will also remove all tasks and comments associated with that project through database cascade rules.
 
 ## Task Management
 
